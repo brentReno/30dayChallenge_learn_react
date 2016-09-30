@@ -18,3 +18,14 @@ Objectives
 -----------
 Day 1- Spin up a project with react.
   -Using reactjsprogram to learn
+
+Day 2- Create a react component for hello World.
+    -continuing reactjsprogram
+
+
+
+Things to remember
+-------------------  
+  * Npm Install react and react-dom
+  * Npm Install -dev all babel and all webpack
+  * webpack-dev-server runs on localhost:8080
