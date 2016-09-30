@@ -1,0 +1,23 @@
+{
+  "name": "github_challenge_react",
+  "version": "1.0.0",
+  "description": "Github Challenge- learn React ============================= The purpose of this rep is to spend 30 days, making one commit a day, while learning react.",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.16.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-react": "^6.16.0",
+    "html-webpack-plugin": "^2.22.0",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.16.1"
+  },
+  "scripts": {
+    "production":"webpack -p"
+  },
+  "author": "",
+  "license": "ISC"
+}
