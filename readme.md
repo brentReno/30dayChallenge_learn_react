@@ -13,15 +13,16 @@ Sources of learning
 * http://www.reactjsprogram.com/
   * https://github.com/ReactjsProgram/React-Fundamentals/tree/master
   * https://github.com/ReactjsProgram/react-fundamentals-curriculum
+* https://www.kirupa.com/react/index.htm    
 
-Objectives
+Progress
 -----------
 Day 1- Spin up a project with react.
   -Using reactjsprogram to learn
 
 Day 2- Create a react component for hello World.
     -continuing reactjsprogram
-
+Day- 3
 
 
 Things to remember
