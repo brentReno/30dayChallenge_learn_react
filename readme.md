@@ -22,7 +22,10 @@ Day 1- Spin up a project with react.
 
 Day 2- Create a react component for hello World.
     -continuing reactjsprogram
-Day- 3
+
+Day 3- this.props.children
+
+Day 4 - React router part  1
 
 
 Things to remember
