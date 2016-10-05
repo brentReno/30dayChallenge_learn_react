@@ -25,8 +25,10 @@ Day 2- Create a react component for hello World.
 
 Day 3- this.props.children
 
-Day 4 - React router part  1
+Day 4 - React router
+  - Set up router, add home and main routes.
 
+Day 5- Set home as Index Route, require Raven-js and config for use with Sentry
 
 Things to remember
 -------------------  

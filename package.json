@@ -4,6 +4,7 @@
   "description": "Github Challenge- learn React ============================= The purpose of this rep is to spend 30 days, making one commit a day, while learning react.",
   "main": "index.js",
   "dependencies": {
+    "raven-js": "^3.7.0",
     "react": "^15.3.2",
     "react-dom": "^15.3.2",
     "react-router": "^2.8.1"
