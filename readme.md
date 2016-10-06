@@ -30,6 +30,8 @@ Day 4 - React router
 
 Day 5- Set home as Index Route, require Raven-js and config for use with Sentry
 
+Day 6- Took reactprogram quiz's. Read up on stateless function components, and prop types, in preparation for tomorrow's learning.
+
 Things to remember
 -------------------  
   * Npm Install react and react-dom
