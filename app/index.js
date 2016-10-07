@@ -20,8 +20,6 @@ Raven.config(sentryURL, {
   }
 }).install();
 
-/// this generates an error for testing sentry setup
-console.log(window.thing.noWay);
 
 ReactDOM.render(
   //can pass in any sort of data [],{}, ""
