@@ -32,6 +32,9 @@ Day 5- Set home as Index Route, require Raven-js and config for use with Sentry
 
 Day 6- Took reactprogram quiz's. Read up on stateless function components, and prop types, in preparation for tomorrow's learning.
 
+10-12-16-
+Taking a break from reactprogram. Tunning through the react course on codeschool. Trying to get a better grasp on the basics, before procceding.
+
 Things to remember
 -------------------  
   * Npm Install react and react-dom
