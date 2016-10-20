@@ -35,6 +35,9 @@ Day 6- Took reactprogram quiz's. Read up on stateless function components, and p
 10-12-16-
 Taking a break from reactprogram. Tunning through the react course on codeschool. Trying to get a better grasp on the basics, before procceding.
 
+10-19
+Finished two more sections of Code School's git hub. One more, and back to reactprogram. Gaining a clearer understanding of React. 
+
 Things to remember
 -------------------  
   * Npm Install react and react-dom
