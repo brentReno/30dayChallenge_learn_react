@@ -36,7 +36,10 @@ Day 6- Took reactprogram quiz's. Read up on stateless function components, and p
 Taking a break from reactprogram. Tunning through the react course on codeschool. Trying to get a better grasp on the basics, before procceding.
 
 10-19
-Finished two more sections of Code School's git hub. One more, and back to reactprogram. Gaining a clearer understanding of React. 
+Finished two more sections of Code School's git hub. One more, and back to reactprogram. Gaining a clearer understanding of React.
+
+10-21
+Brushed up on es2015. Wasn't to familiar with it. Helpful in learning React syntax. Should have done this first. 
 
 Things to remember
 -------------------  
