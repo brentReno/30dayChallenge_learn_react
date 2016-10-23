@@ -39,7 +39,9 @@ Taking a break from reactprogram. Tunning through the react course on codeschool
 Finished two more sections of Code School's git hub. One more, and back to reactprogram. Gaining a clearer understanding of React.
 
 10-21
-Brushed up on es2015. Wasn't to familiar with it. Helpful in learning React syntax. Should have done this first. 
+Brushed up on es2015. Wasn't to familiar with it. Helpful in learning React syntax. Should have done this first.
+
+10-22 More with es2015. CodeSchool was acting up, so I didn't get as much done as I would like. 
 
 Things to remember
 -------------------  
