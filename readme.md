@@ -45,6 +45,4 @@ Brushed up on es2015. Wasn't to familiar with it. Helpful in learning React synt
 
 Things to remember
 -------------------  
-  * Npm Install react and react-dom
-  * Npm Install -dev all babel and all webpack
   * webpack-dev-server runs on localhost:8080
